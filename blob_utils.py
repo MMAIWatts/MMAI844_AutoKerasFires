@@ -2,7 +2,7 @@ import os
 
 from google.cloud import storage
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "citric-inkwell-268501-0b3715e10f7e.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "citric-inkwell-268501-199bb91f86e9.json"
 
 
 def list_blobs(bucket_name):

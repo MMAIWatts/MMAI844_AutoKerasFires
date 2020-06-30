@@ -23,7 +23,7 @@ print('done.')
 # Instantiate the image classifier
 classifier = ak.ImageClassifier(max_trials=1)
 
-classifier.fit(train_x, train_y, epochs=2)
+classifier.fit(train_x, train_y, epochs=1)
 
 y_pred = classifier.predict(test_x)
 
