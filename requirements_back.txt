@@ -23,7 +23,7 @@ joblib==0.15.1
 Keras-Preprocessing==1.1.2
 keras-tuner @ git+https://github.com/keras-team/keras-tuner.git@b9f314cde07ec6d54fdf5c7db1cd8f2c76ac53e6
 Markdown==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-python==4.2.0.34
 opt-einsum==3.2.1
