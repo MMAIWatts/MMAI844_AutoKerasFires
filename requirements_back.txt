@@ -19,7 +19,7 @@ grpcio==1.30.0
 h5py==2.10.0
 idna==2.10
 importlib-metadata==1.7.0
-joblib==0.15.1
+joblib==1.2.0
 Keras-Preprocessing==1.1.2
 keras-tuner @ git+https://github.com/keras-team/keras-tuner.git@b9f314cde07ec6d54fdf5c7db1cd8f2c76ac53e6
 Markdown==3.2.2
